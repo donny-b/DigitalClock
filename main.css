@@ -1,0 +1,18 @@
+.clock {
+    background: rgb(138, 6, 6);
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.clock-time {
+    font-size: 48px;
+    font-family: 'Underdog', cursive;
+    color: #eee
+}
+.clock-ampm {
+    font-family: 'Underdog', cursive;
+    font-size: 30px;
+    color: #eee
+}
